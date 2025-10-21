@@ -35,7 +35,13 @@
 | Papaya Talk (기획 중) | 인터랙티브 챗 픽션(브랜치/엔딩 저장) | JSP/JS(또는 React), REST, RDB/Redis |
 
 ## 🔗 Projects
-- 🔧[#Page →](https://github.com/yes-ung/midterm-project-teamHashTagPage)
+[![#Page](https://img.shields.io/badge/%23Page-MyBatis%20%7C%20Spring%20MVC-orange?style=for-the-badge&logo=spring)](https://github.com/yes-ung/midterm-project-teamHashTagPage)
+[![Lu:meet](https://img.shields.io/badge/Lu:meet-RecipeCode%20Social%20App-green?style=for-the-badge&logo=springboot)](https://github.com/mapadubumaenia/LU-meet)
+[![Papaya Novel](https://img.shields.io/badge/Papaya_Novel-Refactoring-blueviolet?style=for-the-badge&logo=java)](https://github.com/JItzel0126/my_webpage)
+[![Papaya Talk](https://img.shields.io/badge/Papaya_Talk-Interactive_Chat-lightgrey?style=for-the-badge&logo=javascript)](https://github.com/JItzel0126/sample_chat)
+
+- 🔧[![#Page](https://img.shields.io/badge/-색상?style=for-the-badge&logo=로고이름)](링크)
+- [#Page →](https://github.com/yes-ung/midterm-project-teamHashTagPage)
 - 🔧[Lu:meet →](https://github.com/mapadubumaenia/LU-meet)
 - 🔧[Papaya Novel → ](https://github.com/JItzel0126/my_webpage)
 - 🔧[Papaya Talk → ](https://github.com/JItzel0126/sample_chat)
