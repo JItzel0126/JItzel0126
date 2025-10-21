@@ -1,7 +1,8 @@
 <!-- 프로필 배너나 간단한 인사 -->
 <h1 align="center">Hi, I'm JItzel 👋</h1>
 <p align="center">
-  백엔드 드리븐 풀스택 지망생 · 코딩 공부 중 · 소설/시나리오 씁니다
+  🧑‍💻 백엔드 드리븐 풀스택 지망생 <br/>
+  ✍️ 코딩 공부 중 · 소설/시나리오 씁니다
 </p>
 
 ---
@@ -33,18 +34,18 @@
 | Papaya Novel (Solo) | #Page 클론 리팩토링 : 도서 CRUD, 댓글·대댓글, 커뮤니티 게시판 등 | Spring Boot, JPA, H2 Database |
 | Papaya Talk (기획 중) | 인터랙티브 챗 픽션(브랜치/엔딩 저장) | JSP/JS(또는 React), REST, RDB/Redis |
 
-> `#Page` → 🔧<[repo link](https://github.com/yes-ung/midterm-project-teamHashTagPage)>
-> `Lu:meet` → 🔧<[repo link](https://github.com/mapadubumaenia/LU-meet)>
-> `Papaya Novel` → 🔧<[repo link](https://github.com/JItzel0126/my_webpage)>
-> `Papaya Talk` → 🔧<[repo link](https://github.com/JItzel0126/sample_chat)>
+> `🔧<[#Page →](https://github.com/yes-ung/midterm-project-teamHashTagPage)>`
+> `🔧<[Lu:meet →](https://github.com/mapadubumaenia/LU-meet)>`
+> `🔧<[Papaya Novel → ](https://github.com/JItzel0126/my_webpage)>`
+> `🔧<[Papaya Talk → ](https://github.com/JItzel0126/sample_chat)>`
 
 ## ✍️ Writing / Lyrics
 - 가사 · 웹소설 작업 : 🔧<Notion>
 - 테마: 도시의 괴이, 메타/테크 풍자, 정체성과 알고리즘
 
-## 🧭 Career & Education
-- 백엔드 개발(교육/팀 프로젝트) · 2025 4 - 10
-- 🔧교육과정: Java/Spring, Python, Elasticsearch, 프젝 2회차
+## 🧭 Education
+- 백엔드 개발(교육/팀 프로젝트) · 2025 4 - 2025 10
+- 교육과정: HTML/CSS/JS, Java/Spring, SQL, Python, Elasticsearch, 프젝 2회차
 
 ## 🤝 Contact
 - Blog/Portfolio: 🔧[Jitzel Git](https://github.com/JItzel0126/JItzel0126)
