@@ -34,10 +34,10 @@
 | Papaya Novel (Solo) | #Page 클론 리팩토링 : 도서 CRUD, 댓글·대댓글, 커뮤니티 게시판 등 | Spring Boot, JPA, H2 Database |
 | Papaya Talk (기획 중) | 인터랙티브 챗 픽션(브랜치/엔딩 저장) | JSP/JS(또는 React), REST, RDB/Redis |
 
-> `🔧<[#Page →](https://github.com/yes-ung/midterm-project-teamHashTagPage)>`
-> `🔧<[Lu:meet →](https://github.com/mapadubumaenia/LU-meet)>`
-> `🔧<[Papaya Novel → ](https://github.com/JItzel0126/my_webpage)>`
-> `🔧<[Papaya Talk → ](https://github.com/JItzel0126/sample_chat)>`
+-🔧<[#Page →](https://github.com/yes-ung/midterm-project-teamHashTagPage)>
+-🔧<[Lu:meet →](https://github.com/mapadubumaenia/LU-meet)>
+-🔧<[Papaya Novel → ](https://github.com/JItzel0126/my_webpage)>
+-🔧<[Papaya Talk → ](https://github.com/JItzel0126/sample_chat)>
 
 ## ✍️ Writing / Lyrics
 - 가사 · 웹소설 작업 : 🔧<Notion>
