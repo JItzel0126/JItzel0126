@@ -6,8 +6,9 @@
 ---
 
 ## 🙋 About Me
+- 과거: 조선전장설계 4년, 온라인 스토어 관리 및 운영
 - 현재: 백엔드 학습 + 팀 프로젝트 운영(🧪 Spring Boot, JPA, JSP)
-- 관심: 웹서비스 아키텍처, 데이터 파이프라인/빅데이터 처리, 검색/추천 시스템, 로그 기반 집계/대시보드
+- 관심: 웹서비스 아키텍처 · 데이터 파이프라인/빅데이터 처리 · 검색/추천 시스템 · 로그 기반 집계/대시보드
 - 요즘 하는 것: 웹노벨 서비스(Papaya novel), 레시피 소셜(RecipeCode - Lu:meet), 글쓰기/시나리오 작업
 - 모토: _“배움은 멈출 수 없지만, 배운건 바로 써먹어야 한다.”_
 
@@ -39,14 +40,14 @@
 [![Papaya Talk](https://img.shields.io/badge/Papaya_Talk-Interactive_Chat-89CFF0?style=for-the-badge)](https://github.com/JItzel0126/sample_chat)
 
 ## ✍️ Writing / Lyrics
-- 가사 · 웹소설 작업 : 🔧<Notion>
+- 가사 · 웹소설 작업 : 🔧 준비중
 - 테마: 도시의 괴이, 메타/테크 풍자, 정체성과 알고리즘
 
 ## 🧭 Education
-- 백엔드 개발(교육/팀 프로젝트) · 2025 4 - 2025 10
+- 백엔드 개발(교육/팀 프로젝트) · 2025.04 ~ 2025.10
 - 교육과정: HTML/CSS/JS, Java/Spring, SQL, Python, Elasticsearch, 프젝 2회차
 
 ## 🤝 Contact
 - Blog/Portfolio: 🔧[Jitzel Git](https://github.com/JItzel0126/JItzel0126)
-- Notion: 🔧your-notion
+- Notion: 🔧 준비중
 - Email: 🔧kikiroro1506@gmail.com
