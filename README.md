@@ -35,10 +35,10 @@
 | Papaya Talk (기획 중) | 인터랙티브 챗 픽션(브랜치/엔딩 저장) | JSP/JS(또는 React), REST, RDB/Redis |
 
 ## 🔗 Projects
-- 🔧[![#Page](https://img.shields.io/badge/%23Page-웹노벨플랫폼-orange?style=for-the-badge)](https://github.com/yes-ung/midterm-project-teamHashTagPage)
-- 🔧[![Lu:meet](https://img.shields.io/badge/Lu:meet-SNS형플랫폼-green?style=for-the-badge)](https://github.com/mapadubumaenia/LU-meet)
-- 🔧[![Papaya Novel](https://img.shields.io/badge/Papaya_Novel-Refactoring-blueviolet?style=for-the-badge)](https://github.com/JItzel0126/my_webpage)
-- 🔧[![Papaya Talk](https://img.shields.io/badge/Papaya_Talk-Interactive_Chat-lightgrey?style=for-the-badge)](https://github.com/JItzel0126/sample_chat)
+[![#Page](https://img.shields.io/badge/%23Page-웹노벨플랫폼-FF6F61?style=for-the-badge)](https://github.com/yes-ung/midterm-project-teamHashTagPage)
+[![Lu:meet](https://img.shields.io/badge/Lu:meet-SNS형플랫폼-78C2AD?style=for-the-badge)](https://github.com/mapadubumaenia/LU-meet)
+[![Papaya Novel](https://img.shields.io/badge/Papaya_Novel-Refactoring-B39CD0?style=for-the-badge)](https://github.com/JItzel0126/my_webpage)
+[![Papaya Talk](https://img.shields.io/badge/Papaya_Talk-Interactive_Chat-89CFF0?style=for-the-badge)](https://github.com/JItzel0126/sample_chat)
 
 ## ✍️ Writing / Lyrics
 - 가사 · 웹소설 작업 : 🔧<Notion>
