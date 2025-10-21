@@ -33,28 +33,20 @@
 | Papaya Novel (Solo) | #Page 클론 리팩토링 : 도서 CRUD, 댓글·대댓글, 커뮤니티 게시판 등 | Spring Boot, JPA, H2 Database |
 | Papaya Talk (기획 중) | 인터랙티브 챗 픽션(브랜치/엔딩 저장) | JSP/JS(또는 React), REST, RDB/Redis |
 
-> 👉 각 프로젝트 레포 링크를 여기에 연결하세요: `#Page` → 🔧<[repo link](https://github.com/yes-ung/midterm-project-teamHashTagPage)>, `Lu:meet` → 🔧<[repo link](https://github.com/mapadubumaenia/LU-meet)>, `Papaya Novel` → 🔧<[repo link](https://github.com/JItzel0126/my_webpage)>, `Papaya Talk` → 🔧<[repo link](https://github.com/JItzel0126/sample_chat)> …
-
-## 🎯 Highlights (What I Learned)
-- RDB 정합 + ES 검색 이중화 운용(로그 수집 → 인덱싱 → 검색/집계)
-- JPA 다대일/일대다 성능 이슈 튜닝, 소프트 삭제, 유효성 검증 전략
-- 추천 파이프라인(이벤트 로그 → 유사도/핫 피드 폴백) 설계 및 연결
-- 배포/시연 문서화: PPT 스크립트, 아키텍처 다이어그램, ERD
-
-## 🧪 Code Samples
-- DDL & 시퀀스 스크립트: 🔧<link>
-- QueryDSL/스펙 패턴 예시: 🔧<link>
-- ES 인덱스 매핑 & 집계 쿼리: 🔧<link>
+> `#Page` → 🔧<[repo link](https://github.com/yes-ung/midterm-project-teamHashTagPage)>
+> `Lu:meet` → 🔧<[repo link](https://github.com/mapadubumaenia/LU-meet)>
+> `Papaya Novel` → 🔧<[repo link](https://github.com/JItzel0126/my_webpage)>
+> `Papaya Talk` → 🔧<[repo link](https://github.com/JItzel0126/sample_chat)>
 
 ## ✍️ Writing / Lyrics
-- 가사 · 시 · 웹소설 일부 공개: 🔧<Notion or Blog link>
+- 가사 · 웹소설 작업 : 🔧<Notion>
 - 테마: 도시의 괴이, 메타/테크 풍자, 정체성과 알고리즘
 
 ## 🧭 Career & Education
-- 백엔드 개발(교육/팀 프로젝트) · 2025 — now  
-- 🔧교육과정/부트캠프: Java/Spring, Python, Elasticsearch, 프젝 2회차
+- 백엔드 개발(교육/팀 프로젝트) · 2025 4 - 10
+- 🔧교육과정: Java/Spring, Python, Elasticsearch, 프젝 2회차
 
 ## 🤝 Contact
-- Blog/Portfolio: 🔧your-site
+- Blog/Portfolio: 🔧[Jitzel Git](https://github.com/JItzel0126/JItzel0126)
 - Notion: 🔧your-notion
-- Email: 🔧your@email.com
+- Email: 🔧kikiroro1506@gmail.com
