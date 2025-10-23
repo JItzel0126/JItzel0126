@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6)
-![JS](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E)
 
 ## 🏗️ Featured Projects
 | Project | Description | Tech Stack |
