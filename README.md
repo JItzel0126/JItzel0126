@@ -35,7 +35,7 @@
 
 ## 🔗 Projects
 [![#Page](https://img.shields.io/badge/%23Page-웹노벨플랫폼-FF6F61?style=for-the-badge)](https://github.com/yes-ung/midterm-project-teamHashTagPage)
-[![Lu:meet](https://img.shields.io/badge/Lu:meet-SNS형플랫폼-78C2AD?style=for-the-badge)]([https://github.com/mapadubumaenia/LU-meet](https://github.com/JItzel0126/LU-meet))
+[![Lu:meet](https://img.shields.io/badge/Lu:meet-SNS형플랫폼-78C2AD?style=for-the-badge)](https://github.com/JItzel0126/LU-meet)
 [![Papaya Novel](https://img.shields.io/badge/Papaya_Novel-Refactoring-B39CD0?style=for-the-badge)](https://github.com/JItzel0126/my_webpage)
 [![Papaya Talk](https://img.shields.io/badge/Papaya_Talk-Interactive_Chat-89CFF0?style=for-the-badge)](https://github.com/JItzel0126/sample_chat)
 
