@@ -48,6 +48,6 @@
 - 교육과정: HTML/CSS/JS, Java/Spring, SQL, Python, Elasticsearch, 프젝 2회차
 
 ## 🤝 Contact
-- Blog/Portfolio: 🔧[Jitzel Git](https://github.com/JItzel0126/JItzel0126)
+- Blogo: 🔧[코드 학습용](https://github.com/JItzel0126/my_tagpage)
 - Notion: 🔧 준비중
 - Email: 🔧kikiroro1506@gmail.com
