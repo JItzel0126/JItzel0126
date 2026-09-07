@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Jitzel</h1>
 
-데이터·AI를 활용한 백엔드에 관심
+백엔드 개발자에 관심
 
 ---
 
 ## About Me
 
-- 과거: 조선 전장(電裝) 설계 4년, 온라인 스토어 관리 및 운영
+- 과거: 조선 생산 설계 4년, 온라인 스토어 관리 및 운영
 - 현재: JM커리어 소속으로 SKP K-뉴딜 아카데미 현장운영 및 수강생 관리 담당, 병행하여 백엔드 개발 학습 지속
-- 관심 분야: 웹서비스 아키텍처, 데이터 파이프라인, 검색/추천 시스템, 로그 기반 집계 및 대시보드
+- 관심 분야: 웹서비스 아키텍처
 
 ## Tech Stack
 
@@ -29,7 +29,7 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| StoryLens (Solo, 공모전 출품) (Solo, 완료) | 웹소설 설정을 분석해 구조를 진단하고, 설정을 지키는 5단계 플롯을 생성 및 자체 검증하는 AI 창작 도구 | Java, Spring Boot, Spring AI, React, Tailwind CSS, OpenAI API, Docker|
+| StoryLens (Solo, 완료 · 공모전 출품) | 웹소설 설정을 분석해 구조를 진단하고, 설정을 지키는 5단계 플롯을 생성 및 자체 검증하는 AI 창작 도구 | Java, Spring Boot, Spring AI, React, Tailwind CSS, OpenAI API, Docker|
 | JobIt's (Team, 완료 · 발표회 우수상) | 부산 청년 인구 유출 구조 분석 및 대응 전략, LLM 기반 맞춤형 에이전트 구현 | Python, pandas, scikit-learn, OpenAI API, AWS, Docker, Streamlit |
 | Lu:meet (Team, 완료) | 레시피 공유 소셜 플랫폼 - 레시피 CRUD, 팔로우/알림, 개인화 피드, 관리자 통계 | Spring Boot, JPA, Oracle, Logstash, Elasticsearch |
 
