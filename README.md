@@ -29,15 +29,16 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| StoryLens (Solo, 공모전 출품) (Solo, 완료) | 웹소설 설정을 분석해 구조를 진단하고, 설정을 지키는 5단계 플롯을 생성 및 자체 검증하는 AI 창작 도구 | Java, Spring Boot, Spring AI, React, Tailwind CSS, OpenAI API, Docker|
 | JobIt's (Team, 완료 · 발표회 우수상) | 부산 청년 인구 유출 구조 분석 및 대응 전략, LLM 기반 맞춤형 에이전트 구현 | Python, pandas, scikit-learn, OpenAI API, AWS, Docker, Streamlit |
 | Lu:meet (Team, 완료) | 레시피 공유 소셜 플랫폼 - 레시피 CRUD, 팔로우/알림, 개인화 피드, 관리자 통계 | Spring Boot, JPA, Oracle, Logstash, Elasticsearch |
 
 
 ## Links
 
-- [#Page](https://github.com/JItzel0126/HashTagPage)
 - [Lu:meet](https://github.com/JItzel0126/LU-meet)
-- [Papaya Novel](https://github.com/JItzel0126/my_webpage)
+- [JobIt's](https://github.com/JItzel0126/AC4D)
+- [StoryLens](https://github.com/daily-flat-factory/storylens)
 
 ## Education
 
@@ -49,3 +50,9 @@
 ## Contact
 
 - Email: kikiroro1506@gmail.com
+
+## Etc
+
+- [Notion](https://app.notion.com/p/AI-36058d83d5f680d3819afa2bcf03eb55?source=copy_link)
+- [Velog](https://velog.io/@jitzel/posts)
+
